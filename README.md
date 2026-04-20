@@ -11,7 +11,7 @@ Calculadora científica elegante con diseño dark mode en tonos púrpura y negro
 
 ## 🚀 Demo en GitHub Pages
 
-[Ver demo](https://tuusuario.github.io/calculadora-cientifica)
+[Ver demo](https://kevinreyes-garcia-rgb.github.io/Calculadora-Part6/)
 
 ## 📁 Estructura
 
